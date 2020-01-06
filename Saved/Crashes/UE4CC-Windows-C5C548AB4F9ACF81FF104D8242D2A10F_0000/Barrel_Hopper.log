@@ -1,0 +1,721 @@
+﻿Log file open, 01/06/20 15:04:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Barrel_Hopper
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-16349351) SRandInit(-16349350).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.303025
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.590s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-AJ6V7SK (172.30.1.57:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.01.06-06.04.27:158][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.06-06.04.27:158][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.06-06.04.27:171][  0]LogInit: Computer: DESKTOP-AJ6V7SK
+[2020.01.06-06.04.27:171][  0]LogInit: User: admin
+[2020.01.06-06.04.27:171][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.06-06.04.27:171][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.06-06.04.27:171][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.01.06-06.04.27:171][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.06-06.04.27:171][  0]LogMemory: Process Physical Memory: 275.30 MB used, 275.30 MB peak
+[2020.01.06-06.04.27:171][  0]LogMemory: Process Virtual Memory: 264.65 MB used, 264.65 MB peak
+[2020.01.06-06.04.27:171][  0]LogMemory: Physical Memory: 6372.13 MB used,  9817.55 MB free, 16189.68 MB total
+[2020.01.06-06.04.27:171][  0]LogMemory: Virtual Memory: 4778.86 MB used,  9817.55 MB free, 134217728.00 MB total
+[2020.01.06-06.04.27:211][  0]LogInit: Using OS detected language (ko-KR).
+[2020.01.06-06.04.27:211][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.01.06-06.04.27:216][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.01.06-06.04.27:696][  0]LogStreaming: Display: Took  0.485s to EndInitTextLocalization.
+[2020.01.06-06.04.27:696][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.06-06.04.27:774][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.06-06.04.27:774][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.06-06.04.28:115][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.06-06.04.28:241][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.01.06-06.04.28:241][  0]LogD3D11RHI:       3962/0/8094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.06-06.04.28:273][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (Feature Level 11_0)
+[2020.01.06-06.04.28:273][  0]LogD3D11RHI:       112/0/8094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2020.01.06-06.04.28:277][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.06-06.04.28:277][  0]LogD3D11RHI:       0/0/8094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.06-06.04.28:277][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.06-06.04.28:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.06-06.04.28:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.06-06.04.28:292][  0]LogWindows: EnumDisplayDevices:
+[2020.01.06-06.04.28:293][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2020.01.06-06.04.28:293][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2020.01.06-06.04.28:294][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2020.01.06-06.04.28:295][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2020.01.06-06.04.28:295][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.01.06-06.04.28:295][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.01.06-06.04.28:295][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.01.06-06.04.28:295][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.01.06-06.04.28:295][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.01.06-06.04.28:376][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.01.06-06.04.28:376][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.01.06-06.04.28:376][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.06-06.04.28:398][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.06-06.04.28:405][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Intermediate/Shaders/WorkingDirectory/43304/).
+[2020.01.06-06.04.28:405][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/3AFCD306484CD52F041EB1A76F27DAA9/'.
+[2020.01.06-06.04.28:702][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.01.06-06.04.28:724][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.01.06-06.04.28:743][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.01.06-06.04.28:762][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.01.06-06.04.28:782][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.01.06-06.04.28:803][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.01.06-06.04.28:823][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.01.06-06.04.28:843][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.01.06-06.04.28:854][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.01.06-06.04.28:872][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.01.06-06.04.28:889][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.01.06-06.04.28:906][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.01.06-06.04.28:924][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2020.01.06-06.04.28:942][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.01.06-06.04.28:960][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.01.06-06.04.28:998][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.01.06-06.04.28:998][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.01.06-06.04.29:015][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.06-06.04.29:018][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.01.06-06.04.29:062][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.06-06.04.29:079][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.06-06.04.29:096][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.01.06-06.04.29:114][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.01.06-06.04.29:131][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.01.06-06.04.29:149][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.01.06-06.04.29:149][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.06-06.04.29:329][  0]LogXGEController: Cleaning working directory: C:/Users/admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.06-06.04.29:329][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.06-06.04.29:329][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.06-06.04.29:329][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.06-06.04.30:358][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.06-06.04.30:420][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.01.06-06.04.30:420][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2020.01.06-06.04.30:420][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.06-06.04.30:420][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.06-06.04.30:420][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.06-06.04.30:420][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.06-06.04.30:441][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.06-06.04.30:454][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.06-06.04.30:454][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.06-06.04.30:454][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.06-06.04.30:468][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.06-06.04.30:469][  0]LogSlate: Using Freetype 2.6.0
+[2020.01.06-06.04.30:470][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.06-06.04.30:470][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.06-06.04.30:642][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2020.01.06-06.04.31:087][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.06-06.04.31:267][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.01.06-06.04.31:271][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.01.06-06.04.31:272][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.06-06.04.31:272][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.01.06-06.04.31:272][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.01.06-06.04.31:272][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.01.06-06.04.31:319][  0]LogNetVersion: Barrel_Hopper , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1898880237)
+[2020.01.06-06.04.31:914][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.125946 seconds
+[2020.01.06-06.04.31:924][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2020.01.06-06.04.31:924][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2020.01.06-06.04.31:924][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.06-06.04.34:076][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.06-06.04.34:117][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.06-06.04.34:688][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.01.06-06.04.34:688][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.01.06-06.04.34:719][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.01.06-06.04.34:747][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.01.06-06.04.35:482][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.06-06.04.35:868][  0]LogOcInput: OculusInput pre-init called
+[2020.01.06-06.04.36:021][  0]LogEngine: Initializing Engine...
+[2020.01.06-06.04.36:024][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.06-06.04.36:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.06-06.04.36:026][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.06-06.04.36:269][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.06-06.04.36:374][  0]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.06-06.04.36:501][  0]LogInit: FAudioDevice initialized.
+[2020.01.06-06.04.36:603][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.01.06-06.04.36:612][  0]LogInit: Texture streaming: Enabled
+[2020.01.06-06.04.36:639][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.06-06.04.36:663][  0]LogInit: Transaction tracking system initialized
+[2020.01.06-06.04.36:703][  0]BlueprintLog: New page: 에디터 로드
+[2020.01.06-06.04.36:814][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.01.06-06.04.36:974][  0]LogConsoleResponse: Display: 
+[2020.01.06-06.04.37:164][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.06-06.04.37:164][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.06-06.04.37:164][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.01.06-06.04.37:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.06-06.04.37:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.06-06.04.37:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/' took 0.02s
+[2020.01.06-06.04.37:739][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.01.06-06.04.37:739][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Levels/Barrel_Hopper_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.06-06.04.37:739][  0]LightingResults: New page: 라이팅 빌드
+[2020.01.06-06.04.37:743][  0]MapCheck: New page: 맵 체크
+[2020.01.06-06.04.37:743][  0]LightingResults: New page: 라이팅 빌드
+[2020.01.06-06.04.37:811][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b7ef46f8, Size=40, Default__BH_Barrel_C Function /Game/Barrel_Hopper/BluePrint/BH_Barrel.BH_Barrel_C:ExecuteUbergraph_BH_Barrel
+[2020.01.06-06.04.37:814][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b7ef46f8, Size=40
+[2020.01.06-06.04.37:814][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b7ef46f8, Size=40, Default__BH_Barrel_C Function /Engine/Transient.REINST_BH_Barrel_C_1:ExecuteUbergraph_BH_Barrel
+[2020.01.06-06.04.37:816][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9ff3f10, Size=40, Default__BH_Barrel_C Function /Game/Barrel_Hopper/BluePrint/BH_Barrel.BH_Barrel_C:ExecuteUbergraph_BH_Barrel
+[2020.01.06-06.04.37:820][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b7fc8c80, Size=32, Default__BH_BarrelKiller_Blueprint_C Function /Game/Barrel_Hopper/BluePrint/BH_BarrelKiller_Blueprint.BH_BarrelKiller_Blueprint_C:ExecuteUbergraph_BH_BarrelKiller_Blueprint
+[2020.01.06-06.04.37:823][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b7fc8c80, Size=32
+[2020.01.06-06.04.37:823][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b7fc8c80, Size=32, Default__BH_BarrelKiller_Blueprint_C Function /Engine/Transient.REINST_BH_BarrelKiller_Blueprint_C_3:ExecuteUbergraph_BH_BarrelKiller_Blueprint
+[2020.01.06-06.04.37:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b7fc8260, Size=32, Default__BH_BarrelKiller_Blueprint_C Function /Game/Barrel_Hopper/BluePrint/BH_BarrelKiller_Blueprint.BH_BarrelKiller_Blueprint_C:ExecuteUbergraph_BH_BarrelKiller_Blueprint
+[2020.01.06-06.04.37:834][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b7ebf9a0, Size=12, Default__BH_HUD_C Function /Game/Barrel_Hopper/BluePrint/BH_HUD.BH_HUD_C:ExecuteUbergraph_BH_HUD
+[2020.01.06-06.04.37:840][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b7ebf9a0, Size=12
+[2020.01.06-06.04.37:840][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b7ebf9a0, Size=12, Default__BH_HUD_C Function /Engine/Transient.REINST_BH_HUD_C_5:ExecuteUbergraph_BH_HUD
+[2020.01.06-06.04.37:844][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b7ebca00, Size=12, Default__BH_HUD_C Function /Game/Barrel_Hopper/BluePrint/BH_HUD.BH_HUD_C:ExecuteUbergraph_BH_HUD
+[2020.01.06-06.04.37:895][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9bb79c0, Size=80, Default__BH_Character_AnimBP_C Function /Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP_C:ExecuteUbergraph_BH_Character_AnimBP
+[2020.01.06-06.04.37:904][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b9bb79c0, Size=80
+[2020.01.06-06.04.37:904][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9f65f30, Size=80, Default__BH_Character_AnimBP_C Function /Engine/Transient.REINST_BH_Character_AnimBP_C_0:ExecuteUbergraph_BH_Character_AnimBP
+[2020.01.06-06.04.37:912][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9b4f560, Size=80, Default__BH_Character_AnimBP_C Function /Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP_C:ExecuteUbergraph_BH_Character_AnimBP
+[2020.01.06-06.04.37:918][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9b6df80, Size=576, Default__BH_Character_C Function /Game/Barrel_Hopper/Character/BH_Character.BH_Character_C:ExecuteUbergraph_BH_Character
+[2020.01.06-06.04.37:920][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9f7b400, Size=168, Default__BH_GameMode_C Function /Game/Barrel_Hopper/Game_Mode/BH_GameMode.BH_GameMode_C:ExecuteUbergraph_BH_GameMode
+[2020.01.06-06.04.37:944][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:944][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:944][  0]LogLinker: Warning: ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset 로드중 '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:944][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:944][  0]LoadErrors: Error: /Game/Barrel_Hopper/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Mannequin/Character/Textures/UE4_LOGO_CARD
+[2020.01.06-06.04.37:944][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:944][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:945][  0]LogLinker: Warning: ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset 로드중 '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:945][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:945][  0]LoadErrors: Error: /Game/Barrel_Hopper/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Mannequin/Character/Textures/UE4_LOGO_CARD
+[2020.01.06-06.04.37:952][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:952][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:953][  0]LogLinker: Warning: ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Character/Materials/M_UE4Man_Body.uasset 로드중 '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:953][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:953][  0]LoadErrors: Error: /Game/Barrel_Hopper/Character/Materials/M_UE4Man_Body : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Mannequin/Character/Textures/UE4_Mannequin__normals
+[2020.01.06-06.04.37:953][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:953][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:953][  0]LogLinker: Warning: ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Character/Materials/M_UE4Man_Body.uasset 로드중 '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:953][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:953][  0]LoadErrors: Error: /Game/Barrel_Hopper/Character/Materials/M_UE4Man_Body : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2020.01.06-06.04.37:953][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:954][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:954][  0]LogLinker: Warning: ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Character/Materials/M_UE4Man_Body.uasset 로드중 '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:954][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:954][  0]LoadErrors: Error: /Game/Barrel_Hopper/Character/Materials/M_UE4Man_Body : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Mannequin/Character/Textures/UE4_Mannequin__normals
+[2020.01.06-06.04.37:954][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:954][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:954][  0]LogLinker: Warning: ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Character/Materials/M_UE4Man_Body.uasset 로드중 '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:954][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:954][  0]LoadErrors: Error: /Game/Barrel_Hopper/Character/Materials/M_UE4Man_Body : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2020.01.06-06.04.37:957][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:957][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:957][  0]LogLinker: Warning: ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Character/Materials/M_UE4Man_ChestLogo.uasset 로드중 '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:957][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:957][  0]LoadErrors: Error: /Game/Barrel_Hopper/Character/Materials/M_UE4Man_ChestLogo : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Mannequin/Character/Textures/UE4Man_Logo_N
+[2020.01.06-06.04.37:958][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:958][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:958][  0]LogLinker: Warning: ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Barrel_Hopper/Character/Materials/M_UE4Man_ChestLogo.uasset 로드중 '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.37:958][  0]LoadErrors: 로드에 실패했습니다. /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin 레퍼런싱한 것: CharacterMesh0
+[2020.01.06-06.04.37:958][  0]LoadErrors: Error: /Game/Barrel_Hopper/Character/Materials/M_UE4Man_ChestLogo : 애셋에 대한 파일을 찾을 수 없습니다. /Game/Mannequin/Character/Textures/UE4Man_Logo_N
+[2020.01.06-06.04.37:979][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b9b6df80, Size=576
+[2020.01.06-06.04.37:979][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9af1a80, Size=576, Default__BH_Character_C Function /Engine/Transient.REINST_BH_Character_C_10:ExecuteUbergraph_BH_Character
+[2020.01.06-06.04.37:980][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b9f7b400, Size=168
+[2020.01.06-06.04.37:980][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9af6140, Size=168, Default__BH_GameMode_C Function /Engine/Transient.REINST_BH_GameMode_C_11:ExecuteUbergraph_BH_GameMode
+[2020.01.06-06.04.37:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b97bb380, Size=576, Default__BH_Character_C Function /Game/Barrel_Hopper/Character/BH_Character.BH_Character_C:ExecuteUbergraph_BH_Character
+[2020.01.06-06.04.37:993][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b975eb00, Size=168, Default__BH_GameMode_C Function /Game/Barrel_Hopper/Game_Mode/BH_GameMode.BH_GameMode_C:ExecuteUbergraph_BH_GameMode
+[2020.01.06-06.04.38:006][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9773480, Size=64, Default__BH_Winner_C Function /Game/Barrel_Hopper/BluePrint/BH_Winner.BH_Winner_C:ExecuteUbergraph_BH_Winner
+[2020.01.06-06.04.38:009][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b9773480, Size=64
+[2020.01.06-06.04.38:009][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9772880, Size=64, Default__BH_Winner_C Function /Engine/Transient.REINST_BH_Winner_C_14:ExecuteUbergraph_BH_Winner
+[2020.01.06-06.04.38:011][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248b9771c40, Size=64, Default__BH_Winner_C Function /Game/Barrel_Hopper/BluePrint/BH_Winner.BH_Winner_C:ExecuteUbergraph_BH_Winner
+[2020.01.06-06.04.38:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248bc9c6110, Size=80, Default__BH_Barrel_Spawner_C Function /Game/Barrel_Hopper/BluePrint/BH_Barrel_Spawner.BH_Barrel_Spawner_C:ExecuteUbergraph_BH_Barrel_Spawner
+[2020.01.06-06.04.38:103][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248bc9c6110, Size=80
+[2020.01.06-06.04.38:103][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248bc9c68e0, Size=80, Default__BH_Barrel_Spawner_C Function /Engine/Transient.REINST_BH_Barrel_Spawner_C_18:ExecuteUbergraph_BH_Barrel_Spawner
+[2020.01.06-06.04.38:105][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248bc9c4b80, Size=80, Default__BH_Barrel_Spawner_C Function /Game/Barrel_Hopper/BluePrint/BH_Barrel_Spawner.BH_Barrel_Spawner_C:ExecuteUbergraph_BH_Barrel_Spawner
+[2020.01.06-06.04.38:152][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.38:152][  0]LoadErrors: 로드에 실패했습니다. /Game/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N 레퍼런싱한 것: M_UE4Man_ChestLogo
+[2020.01.06-06.04.38:152][  0]LogLinker: Warning: NULL 로드중 '/Game/Mannequin/Character/Textures/UE4Man_Logo_N' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.38:152][  0]LoadErrors: 로드에 실패했습니다. /Game/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N 레퍼런싱한 것: M_UE4Man_ChestLogo
+[2020.01.06-06.04.38:154][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.38:154][  0]LoadErrors: 로드에 실패했습니다. /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD 레퍼런싱한 것: MaterialExpressionTextureSample_2
+[2020.01.06-06.04.38:154][  0]LogLinker: Warning: NULL 로드중 '/Game/Mannequin/Character/Textures/UE4_LOGO_CARD' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.38:154][  0]LoadErrors: 로드에 실패했습니다. /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD 레퍼런싱한 것: MaterialExpressionTextureSample_2
+[2020.01.06-06.04.38:157][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.38:157][  0]LoadErrors: 로드에 실패했습니다. /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA 레퍼런싱한 것: MaterialExpressionTextureSample_4
+[2020.01.06-06.04.38:157][  0]LogLinker: Warning: NULL 로드중 '/Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.38:158][  0]LoadErrors: 로드에 실패했습니다. /Game/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA 레퍼런싱한 것: MaterialExpressionTextureSample_4
+[2020.01.06-06.04.38:158][  0]LogLinker: Warning: '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.38:158][  0]LoadErrors: 로드에 실패했습니다. /Game/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_0
+[2020.01.06-06.04.38:158][  0]LogLinker: Warning: NULL 로드중 '/Game/Mannequin/Character/Textures/UE4_Mannequin__normals' 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.01.06-06.04.38:158][  0]LoadErrors: 로드에 실패했습니다. /Game/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals 레퍼런싱한 것: MaterialExpressionTextureSampleParameter2D_0
+[2020.01.06-06.04.38:269][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.06-06.04.38:272][  0]LogMaterial: Warning: C:\Users\admin\Documents\Unreal Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.06-06.04.38:272][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.06-06.04.38:273][  0]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.06-06.04.38:273][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.06-06.04.38:273][  0]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.01.06-06.04.38:273][  0]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.01.06-06.04.38:273][  0]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.01.06-06.04.38:273][  0]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.01.06-06.04.38:275][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.06-06.04.38:276][  0]LogMaterial: Warning: C:\Users\admin\Documents\Unreal Projects\Barrel_Hopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to compile Material Instance with Base M_UE4Man_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.06-06.04.38:276][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.01.06-06.04.38:276][  0]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.01.06-06.04.38:276][  0]LogMaterial: 	Function ML_Plastic_Shiny_Beige_LOGO: (Node TextureSample) Logo Mask> Missing input texture
+[2020.01.06-06.04.38:277][  0]LogMaterial: 	Function ML_Plastic_Shiny_Beige_LOGO: (Node MakeMaterialAttributes) Error on property OpacityMask
+[2020.01.06-06.04.38:303][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [12.153700ms] /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.01.06-06.04.38:461][  0]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2020.01.06-06.04.38:474][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.06-06.04.38:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b7ef46f8, Size=40
+[2020.01.06-06.04.38:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b7fc8c80, Size=32
+[2020.01.06-06.04.38:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b7ebf9a0, Size=12
+[2020.01.06-06.04.38:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b9f65f30, Size=80
+[2020.01.06-06.04.38:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b9af1a80, Size=576
+[2020.01.06-06.04.38:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b9af6140, Size=168
+[2020.01.06-06.04.38:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b9772880, Size=64
+[2020.01.06-06.04.38:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248bc9c68e0, Size=80
+[2020.01.06-06.04.38:489][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.06-06.04.38:604][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 115.199ms.
+[2020.01.06-06.04.38:604][  0]LogFileHelpers: Loading map 'Barrel_Hopper_Map' took 0.866
+[2020.01.06-06.04.38:783][  0]LogCollectionManager: Loaded 0 collections in 0.002699 seconds
+[2020.01.06-06.04.38:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Collections/' took 0.01s
+[2020.01.06-06.04.38:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Developers/admin/Collections/' took 0.01s
+[2020.01.06-06.04.38:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Barrel_Hopper/Content/Collections/' took 0.01s
+[2020.01.06-06.04.38:828][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.06-06.04.38:841][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2452 classes and 558 folders.
+[2020.01.06-06.04.38:853][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.06-06.04.38:919][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.06-06.04.38:926][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.06-06.04.38:953][  0]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.06-06.04.38:958][  0]LogSlate: Took 0.003709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.01.06-06.04.38:962][  0]LogSlate: Took 0.003156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.01.06-06.04.38:963][  0]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.06-06.04.38:969][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.06-06.04.39:087][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:1).
+[2020.01.06-06.04.39:266][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.06-06.04.39:266][  0]LogLoad: (Engine Initialization) Total time: 15.49 seconds
+[2020.01.06-06.04.39:266][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.06-06.04.39:308][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.01.06-06.04.39:314][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.06-06.04.39:386][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.06-06.04.39:617][  1]LogAssetRegistry: Asset discovery search completed in 8.9973 seconds
+[2020.01.06-06.04.39:620][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.01.06-06.04.39:620][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000108 seconds (updated 0 objects)
+[2020.01.06-06.04.41:527][105]LogSlate: Window '메시지 로그' being destroyed
+[2020.01.06-06.04.41:532][105]LogSlate: Window '메시지 로그' being destroyed
+[2020.01.06-06.04.42:648][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.06-06.04.42:698][173]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.01.06-06.04.42:716][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.06-06.04.42:716][173]PIE: New page: PIE 세션: Barrel_Hopper_Map (2020. 1. 7. 오전 12:04:42)
+[2020.01.06-06.04.42:716][173]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2020.01.06-06.04.42:733][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016218s)
+[2020.01.06-06.04.42:733][173]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2020.01.06-06.04.42:734][173]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2020.01.06-06.04.42:734][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.017272s)
+[2020.01.06-06.04.42:818][173]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.06-06.04.42:907][173]LogInit: FAudioDevice initialized.
+[2020.01.06-06.04.42:959][173]LogLoad: Game class is 'BH_GameMode_C'
+[2020.01.06-06.04.42:962][173]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2020.01.06-15.04.42
+[2020.01.06-06.04.42:963][173]LogWorld: Bringing up level for play took: 0.002526
+[2020.01.06-06.04.42:968][173]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2020.01.06-06.04.42:968][173]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.06-06.04.42:968][173]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.06-06.04.42:968][173]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.06-06.04.42:970][173]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.06-06.04.42:971][173]PIE: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 에 대한 에디터에서 플레이 시작 시간: -0.492
+[2020.01.06-06.05.10:540][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.06-06.05.51:883][204]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.06-06.05.52:244][204]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2020.01.06-06.05.52:646][204]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248f08215f0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.01.06-06.05.52:647][204]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248f08215b8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.01.06-06.05.53:179][204]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.06-06.05.53:272][205]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.06-06.06.05:871][947]LogSlate: Window 'BH_Winner' being destroyed
+[2020.01.06-06.06.05:877][947]LogSlate: Window 'BH_Winner' being destroyed
+[2020.01.06-06.06.30:182][355]LogSlate: Window 'BH_HUD' being destroyed
+[2020.01.06-06.06.30:187][355]LogSlate: Window 'BH_HUD' being destroyed
+[2020.01.06-06.06.51:131][564]BlueprintLog: New page: BH_HUD 컴파일
+[2020.01.06-06.06.51:165][564]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b7ebca00, Size=12
+[2020.01.06-06.06.51:166][564]LogUObjectGlobals: Created PersistentFrame Addr=0x000002490d148220, Size=12, Default__BH_HUD_C Function /Engine/Transient.REINST_BH_HUD_C_38:ExecuteUbergraph_BH_HUD
+[2020.01.06-06.06.51:170][564]LogUObjectGlobals: Created PersistentFrame Addr=0x000002490d1492e0, Size=12, Default__BH_HUD_C Function /Game/Barrel_Hopper/BluePrint/BH_HUD.BH_HUD_C:ExecuteUbergraph_BH_HUD
+[2020.01.06-06.07.00:898][111]BlueprintLog: New page: BH_HUD 컴파일
+[2020.01.06-06.07.00:927][111]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002490d1492e0, Size=12
+[2020.01.06-06.07.00:927][111]LogUObjectGlobals: Created PersistentFrame Addr=0x000002490d1492e0, Size=12, BH_HUD_C_6 Function /Engine/Transient.REINST_BH_HUD_C_46:ExecuteUbergraph_BH_HUD
+[2020.01.06-06.07.00:932][111]LogUObjectGlobals: Created PersistentFrame Addr=0x000002490d148820, Size=12, Default__BH_HUD_C Function /Game/Barrel_Hopper/BluePrint/BH_HUD.BH_HUD_C:ExecuteUbergraph_BH_HUD
+[2020.01.06-06.07.01:145][111]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002490d148220, Size=12
+[2020.01.06-06.07.03:475][233]LogSlate: Window 'BH_HUD*' being destroyed
+[2020.01.06-06.07.03:480][233]LogSlate: Window 'BH_HUD*' being destroyed
+[2020.01.06-06.15.06:738][300]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002490d1492e0, Size=12
+[2020.01.06-06.15.06:739][300]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Barrel_Hopper/Levels/Barrel_Hopper_Map' took 0.024
+[2020.01.06-06.15.06:742][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Barrel_Hopper/BluePrint/BH_HUD] ([1] browsable assets)...
+[2020.01.06-06.15.06:742][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/BluePrint/BH_HUD]
+[2020.01.06-06.15.06:817][300]LogSavePackage: Save=42.20ms
+[2020.01.06-06.15.06:818][300]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/BH_HUD_Auto1CBE5FF11462AF28FE0D34D9CAAC86DF6.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/BluePrint/BH_HUD_Auto1.uasset'
+[2020.01.06-06.15.06:821][300]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/BluePrint/BH_HUD_Auto1.uasset
+[2020.01.06-06.15.06:821][300]LogFileHelpers: Auto-saving content packages took 0.082
+[2020.01.06-06.27.38:888][960]LogSlate: Window 'BH_GameMode' being destroyed
+[2020.01.06-06.27.38:894][960]LogSlate: Window 'BH_GameMode' being destroyed
+[2020.01.06-06.31.26:649][446]LogSlate: Window '부모 클래스 선택' being destroyed
+[2020.01.06-06.31.41:747][366]LogSlate: Window '부모 클래스 선택' being destroyed
+[2020.01.06-06.31.47:307][964]LogRenderer: Reallocating scene render targets to support 1208x712 Format 9 NumSamples 1 (Frame:1).
+[2020.01.06-06.32.03:335][639]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Program Files/Epic Games/UE_4.19/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h'
+[2020.01.06-06.40.29:463][942]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.06-06.41.27:462][419]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Barrel_Hopper/Levels/Barrel_Hopper_Map' took 0.027
+[2020.01.06-06.41.27:464][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Barrel_Hopper/Game_Mode/GameModeBase] ([1] browsable assets)...
+[2020.01.06-06.41.27:464][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Game_Mode/GameModeBase]
+[2020.01.06-06.41.27:475][419]LogSavePackage: Save=8.76ms
+[2020.01.06-06.41.27:475][419]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/GameModeBase_Auto2C4DDCCC845FB9098042BAAAEF19D0D2D.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Game_Mode/GameModeBase_Auto2.uasset'
+[2020.01.06-06.41.27:478][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Game_Mode/GameModeBase_Auto2.uasset
+[2020.01.06-06.41.27:479][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Barrel_Hopper/Game_Mode/GameMode] ([1] browsable assets)...
+[2020.01.06-06.41.27:479][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Game_Mode/GameMode]
+[2020.01.06-06.41.27:490][419]LogSavePackage: Save=8.62ms
+[2020.01.06-06.41.27:490][419]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/GameMode_Auto2D42CE712427A76D232CE0DBEBB0010C4.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Game_Mode/GameMode_Auto2.uasset'
+[2020.01.06-06.41.27:493][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Game_Mode/GameMode_Auto2.uasset
+[2020.01.06-06.41.27:493][419]LogFileHelpers: Auto-saving content packages took 0.030
+[2020.01.06-06.49.00:175][809]LogSlate: Window 'GameMode*' being destroyed
+[2020.01.06-06.49.00:177][809]LogSlate: Window 'GameMode*' being destroyed
+[2020.01.06-06.49.00:258][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.06-06.49.04:595][117]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.06-06.53.09:772][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.06-07.48.01:246][587]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UCameraComponent::SetConstraintAspectRatio' [요소가 없습니다.]
+[2020.01.06-08.03.16:660][ 81]LogSlate: Window 'BH_GameMode' being destroyed
+[2020.01.06-08.03.16:669][ 81]LogSlate: Window 'BH_GameMode' being destroyed
+[2020.01.06-08.08.46:167][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.06-08.11.29:695][609]BlueprintLog: New page: BH_Character 컴파일
+[2020.01.06-08.11.29:731][609]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000248b97bb380, Size=576
+[2020.01.06-08.11.29:731][609]LogUObjectGlobals: Created PersistentFrame Addr=0x000002490d5fdd00, Size=576, Default__BH_Character_C Function /Engine/Transient.REINST_BH_Character_C_56:ExecuteUbergraph_BH_Character
+[2020.01.06-08.11.29:739][609]LogUObjectGlobals: Created PersistentFrame Addr=0x000002491832f380, Size=576, Default__BH_Character_C Function /Game/Barrel_Hopper/Character/BH_Character.BH_Character_C:ExecuteUbergraph_BH_Character
+[2020.01.06-08.12.50:554][633]BlueprintLog: New page: BH_Character 컴파일
+[2020.01.06-08.12.50:585][633]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002491832f380, Size=576
+[2020.01.06-08.12.50:585][633]LogUObjectGlobals: Created PersistentFrame Addr=0x00000248c50f7d80, Size=576, BH_Character_C_83 Function /Engine/Transient.REINST_BH_Character_C_62:ExecuteUbergraph_BH_Character
+[2020.01.06-08.12.50:592][633]LogUObjectGlobals: Created PersistentFrame Addr=0x000002490d125300, Size=560, Default__BH_Character_C Function /Game/Barrel_Hopper/Character/BH_Character.BH_Character_C:ExecuteUbergraph_BH_Character
+[2020.01.06-08.12.53:033][750]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.01.06-08.12.53:057][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.06-08.12.53:058][750]PIE: New page: PIE 세션: Barrel_Hopper_Map (2020. 1. 7. 오전 2:12:53)
+[2020.01.06-08.12.53:058][750]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2020.01.06-08.12.53:105][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047244s)
+[2020.01.06-08.12.53:106][750]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2020.01.06-08.12.53:106][750]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2020.01.06-08.12.53:106][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.048354s)
+[2020.01.06-08.12.53:205][750]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.06-08.12.53:295][750]LogInit: FAudioDevice initialized.
+[2020.01.06-08.12.53:338][750]LogLoad: Game class is 'BH_GameMode_C'
+[2020.01.06-08.12.53:340][750]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2020.01.06-17.12.53
+[2020.01.06-08.12.53:341][750]LogWorld: Bringing up level for play took: 0.002819
+[2020.01.06-08.12.53:343][750]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.06-08.12.53:343][750]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.06-08.12.53:343][750]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.06-08.12.53:345][750]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.06-08.12.53:345][750]PIE: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 에 대한 에디터에서 플레이 시작 시간: 0.077
+[2020.01.06-08.13.10:210][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.06-08.13.12:559][894]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.01.06-08.13.12:581][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.06-08.13.12:581][894]PIE: New page: PIE 세션: Barrel_Hopper_Map (2020. 1. 7. 오전 2:13:12)
+[2020.01.06-08.13.12:581][894]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2020.01.06-08.13.12:596][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014815s)
+[2020.01.06-08.13.12:597][894]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2020.01.06-08.13.12:597][894]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2020.01.06-08.13.12:597][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.015950s)
+[2020.01.06-08.13.12:688][894]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.06-08.13.12:770][894]LogInit: FAudioDevice initialized.
+[2020.01.06-08.13.12:810][894]LogLoad: Game class is 'BH_GameMode_C'
+[2020.01.06-08.13.12:812][894]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2020.01.06-17.13.12
+[2020.01.06-08.13.12:813][894]LogWorld: Bringing up level for play took: 0.002368
+[2020.01.06-08.13.12:814][894]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.06-08.13.12:814][894]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.06-08.13.12:814][894]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.06-08.13.12:816][894]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.06-08.13.12:816][894]PIE: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 에 대한 에디터에서 플레이 시작 시간: -0.453
+[2020.01.06-08.13.23:053][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.06-08.14.55:917][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.06-08.15.28:281][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.06-08.15.28:333][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Barrel_Hopper/Levels/Barrel_Hopper_Map' took 0.021
+[2020.01.06-08.15.28:335][260]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Barrel_Hopper/Character/BH_Character] ([1] browsable assets)...
+[2020.01.06-08.15.28:362][260]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Barrel_Hopper/Character/BH_Character.BH_Character]
+[2020.01.06-08.15.28:362][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Character/BH_Character]
+[2020.01.06-08.15.28:447][260]LogSavePackage: Save=58.22ms
+[2020.01.06-08.15.28:447][260]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/BH_Character_Auto33FD94FA84F5D352AC82E11B3161E6766.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Character/BH_Character_Auto3.uasset'
+[2020.01.06-08.15.28:450][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Character/BH_Character_Auto3.uasset
+[2020.01.06-08.15.28:450][260]LogFileHelpers: Auto-saving content packages took 0.116
+[2020.01.06-08.19.24:849][373]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.06-08.19.26:031][374]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BarrelHopper
+[2020.01.06-08.19.26:031][374]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2020.01.06-08.19.26:031][374]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2020.01.06-08.19.26:031][374]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2020.01.06-08.19.26:031][374]LogTemp: BranchPath = DESKTOP-AJ6V7SK/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-AJ6V7SK/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2020.01.06-08.19.26:031][374]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\admin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.01.06-08.19.30:807][643]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.06-08.20.39:377][718]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.01.06-08.20.39:384][718]LogSlate: Window '프로젝트 세팅' being destroyed
+[2020.01.06-08.20.42:197][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.06-08.20.42:279][890]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.01.06-08.20.42:300][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.06-08.20.42:300][890]PIE: New page: PIE 세션: Barrel_Hopper_Map (2020. 1. 7. 오전 2:20:42)
+[2020.01.06-08.20.42:301][890]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map
+[2020.01.06-08.20.42:315][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014274s)
+[2020.01.06-08.20.42:316][890]LogAIModule: Creating AISystem for world Barrel_Hopper_Map
+[2020.01.06-08.20.42:316][890]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2020.01.06-08.20.42:316][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/Barrel_Hopper_Map.Barrel_Hopper_Map to /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map (0.015393s)
+[2020.01.06-08.20.42:413][890]LogInit: XAudio2 using '스피커(Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.06-08.20.42:494][890]LogInit: FAudioDevice initialized.
+[2020.01.06-08.20.42:528][890]LogLoad: Game class is 'BH_GameMode_C'
+[2020.01.06-08.20.42:530][890]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map.Barrel_Hopper_Map up for play (max tick rate 60) at 2020.01.06-17.20.42
+[2020.01.06-08.20.42:531][890]LogWorld: Bringing up level for play took: 0.002325
+[2020.01.06-08.20.42:532][890]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.06-08.20.42:532][890]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.06-08.20.42:532][890]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.06-08.20.42:533][890]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.06-08.20.42:534][890]PIE: /Game/Barrel_Hopper/Levels/UEDPIE_0_Barrel_Hopper_Map 에 대한 에디터에서 플레이 시작 시간: -0.735
+[2020.01.06-08.21.19:595][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.06-08.21.26:894][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.06-08.21.32:592][825]LogSlate: Window 'BH_Character*' being destroyed
+[2020.01.06-08.21.32:599][825]LogSlate: Window 'BH_Character*' being destroyed
+[2020.01.06-08.22.46:827][183]LogSlate: Window 'BH_Character*' being destroyed
+[2020.01.06-08.22.46:833][183]LogSlate: Window 'BH_Character*' being destroyed
+[2020.01.06-08.26.12:183][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Barrel_Hopper/Levels/Barrel_Hopper_Map' took 0.022
+[2020.01.06-08.26.12:185][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Barrel_Hopper/Game_Mode/BH_GameMode] ([1] browsable assets)...
+[2020.01.06-08.26.12:185][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Game_Mode/BH_GameMode]
+[2020.01.06-08.26.12:249][814]LogSavePackage: Save=43.10ms
+[2020.01.06-08.26.12:249][814]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/BH_GameMode_Auto47F0D8DB7461D2951E0AD2A82F95AB385.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Game_Mode/BH_GameMode_Auto4.uasset'
+[2020.01.06-08.26.12:252][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Barrel_Hopper/Saved/Autosaves/Game/Barrel_Hopper/Game_Mode/BH_GameMode_Auto4.uasset
+[2020.01.06-08.26.12:252][814]LogFileHelpers: Auto-saving content packages took 0.069
+[2020.01.06-08.27.07:645][ 78]LogSlate: Window 'BH_GameMode*' being destroyed
+[2020.01.06-08.27.07:654][ 78]LogSlate: Window 'BH_GameMode*' being destroyed
+[2020.01.06-08.29.17:558][701]LogSlate: Window 'BH_HUD*' being destroyed
+[2020.01.06-08.29.17:565][701]LogSlate: Window 'BH_HUD*' being destroyed
+[2020.01.06-08.30.10:868][831]LogUObjectArray: Warning: Invalid object index -572662307
+[2020.01.06-08.30.10:971][831]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.103 s
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: 
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: Stack: 
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x0000000064E4B706 UE4Editor-Core.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x0000000064BAAE3A UE4Editor-Core.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x0000000064BBECD6 UE4Editor-Core.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x000000005CCA3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x000000005C1AB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x000000005AFDC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x000000005AE677AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x000000005AE6AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x000000005AFA6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000663E6057 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000663EBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x000000006661C253 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x0000000066440475 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x0000000066418360 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x000000006640B197 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000B100E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000B1001B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000B101052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000B0FFD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000C63963ED USER32.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000C6395DE2 USER32.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000B1011666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x0000000072495475 UE4Editor.exe!UnknownFunction []
+[2020.01.06-08.30.10:971][831]LogOutputDevice: Error: [Callstack] 0x00000000724A6BD0 UE4Editor.exe!UnknownFunction []
+[2020.01.06-08.30.10:972][831]LogOutputDevice: Error: [Callstack] 0x00000000724A6C4A UE4Editor.exe!UnknownFunction []
+[2020.01.06-08.30.10:972][831]LogOutputDevice: Error: [Callstack] 0x00000000724B4177 UE4Editor.exe!UnknownFunction []
+[2020.01.06-08.30.10:972][831]LogOutputDevice: Error: [Callstack] 0x00000000724B5B87 UE4Editor.exe!UnknownFunction []
+[2020.01.06-08.30.10:972][831]LogOutputDevice: Error: [Callstack] 0x00000000C6047BD4 KERNEL32.DLL!UnknownFunction []
+[2020.01.06-08.30.10:972][831]LogOutputDevice: Error: [Callstack] 0x00000000C6DACED1 ntdll.dll!UnknownFunction []
+[2020.01.06-08.30.10:972][831]LogOutputDevice: Error: 
+[2020.01.06-08.30.10:975][831]LogStats:                SubmitErrorReport -  0.000 s
